@@ -1,72 +1,70 @@
-## Hi there 👋 I'm Joseph Betty
+<h1 align="center">Hi, I'm Joseph Betty 👋</h1>
 
-Aspiring Full Stack Software Engineer  
-Frontend: HTML, CSS, JS, Vue | Backend: Python, Ruby  
-Always learning and building 💻
-
-![Profile Views](https://komarev.com/ghpvc/?username=joseph1435&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/joseph1435?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/joseph1435?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
----
-
-- 🔭 I’m currently working on: [DevQuote Machine](https://github.com/joseph1435/devquote-machine) – A Random Quote Generator.
-- 🌱 I’m currently learning: JavaScript Algorithms and Data Structures, Vue.js, Git & GitHub, Backend with Python & Ruby.
-- 👯 I’m looking to collaborate on: [Study Goals App](https://github.com/joseph1435/study-goals-app) – A productivity tool for students.
-- 💬 Ask me about: Frontend projects, freeCodeCamp challenges, Git basics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joseph-betty-350a72246/) | [Twitter (X)](https://x.com/this_isjoee?t=_GWqpt4pNvzP9IhxHXqqIw&s=09)
-- ⚡ Fun fact: I once fixed a bug by actually reading the error message. Wild, I know. 😅
-
----
-
-### 🧰 Languages and Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+<p align="center">
+  💻 Full Stack Developer | ☕ Java Programmer | 🌍 Tech Enthusiast
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseph1435&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph1435&layout=compact&theme=radical)
+I'm a passionate Full Stack Developer with a strong foundation in the **PERN Stack (PostgreSQL, Express.js, React, Node.js)** and solid experience building backend systems and tools in **Java**. I enjoy solving real-world problems through clean code and continuous learning.
 
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=joseph1435&theme=radical&border_radius=5)](https://git.io/streak-stats)
+- 🔭 I’m currently working on: Full Stack apps using React & Node.js
+- 🌱 I’m learning more about: Spring Boot & Docker
+- 🛠️ I love building: Scalable APIs, responsive UIs, and smart backend systems
+- 📫 How to reach me: josephhibetty@gmail.com
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛠️ Tech Stack
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=joseph1435&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-### 💡 Quote of the Day
+### 📈 GitHub Stats
 
-> “The best way to get started is to quit talking and begin doing.” – Walt Disney
-
----
-
-### 📢 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Note: Blog updates are powered by GitHub Actions*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseph1435&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph1435&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-Thanks for visiting! ✨  
-Let’s connect and build something awesome together 🚀
+### 📂 Notable Projects
+
+- 💳 [Banking System Console App (Java)](https://github.com/joseph1435/...) – Simple banking system with login, deposit & withdraw.
+- 🛒 [E-commerce Store](https://github.com/joseph1435/...) – Full Stack app built with React and Node.js.
+- 💬 [Health Chatbot](https://github.com/joseph1435/...) – Flask-based medical assistant with clean UI and NLP.
+
+> Explore more on my [GitHub repositories](https://github.com/joseph1435?tab=repositories) 🚀
+
+---
+
+### 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joseph-betty-350a72246/)
+- [Twitter (X)](https://x.com/this_isjoee?t=_GWqpt4pNvzP9IhxHXqqIw&s=09)
+- [WhatsApp](https://wa.me/2349018258090)
+- 📬 Email: josephhibetty@gmail.com
+
+---
+
+<p align="center">✨ Always learning, coding, and collaborating 🤝</p>
