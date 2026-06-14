@@ -55,10 +55,10 @@ I care about writing code that's not just functional, but readable, accessible, 
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=this_isjoee&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseph1435&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=this_isjoee&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph1435&theme=default" alt="GitHub Streak" />
 </p>
 ---
  
